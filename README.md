@@ -37,6 +37,10 @@ For this project, the following python libraries were used:
 - seaborn
 - matplotlib
 - scipy
+- sklearn
+- pylab
+- folium
+- json
 
 The final report was created in Tableau.  
 
