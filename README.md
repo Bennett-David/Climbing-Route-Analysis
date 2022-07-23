@@ -41,6 +41,7 @@ For this project, the following python libraries were used:
 - pylab
 - folium
 - json
+- statsmodels.api
 
 The final report was created in Tableau.  
 
