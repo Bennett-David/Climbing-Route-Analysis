@@ -2,7 +2,7 @@
 
 This repository contains python scripts, data sets, and a report on findings and analysis of rock climbing routes within the western United States. This is a project for Career Foundry Data Immersion Course. 
 
-For the final report, click here (insert link when done). 
+For the final report, click here: [Analysis of Western Rock Climbing Routes](https://public.tableau.com/app/profile/dave.bennett/viz/AnalysisofWesternUSRockClimbingRoutes/Storyboard?publish=yes). 
 
 ## **Objective**
 There are two overall objectives for this analysis. The first is to develop a tool to better help rock climbers decide where to climb in the west based on a variety of factors related to climbing routes. Examples include route difficulty, length, and type of climbing. 
