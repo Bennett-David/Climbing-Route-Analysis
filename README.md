@@ -30,6 +30,10 @@ The data contains information on the following parameters:
 
 The data was sourced from https://www.mountainproject.com/, an online climbing route database. Most data on mountain project is submitted and compiled by its users. The site allows for up to 1000 records to be exported and downloaded at a time. Therefore, 79 separate data sets were exported and then combined in order to capture the vast majority of routes in the western US. 
 
+While not included in the final report, a requirement of the project was to complete a time series analysis. For that analysis, I used data from [Google Trends](https://trends.google.com/trends/explore?date=all&geo=US&q=rock%20climbing) to look at how often "Rock Climbing" was googled between 2004-present.  
+
+I also conducted a geospatial analysis which required a JSON file with data for the U.S. That data can be found [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json). 
+
 ## **Tools**
 For this project, the following python libraries were used: 
 - pandas
